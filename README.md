@@ -1,2 +1,2 @@
-# area47script
-area47 script
+# A roblox area 47 script
+this script shouldnt be open source i created this repo just for loadstring
