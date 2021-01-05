@@ -1,2 +1,2 @@
-# A roblox area 47 script
+# scavn repo
 welcome to my repo
